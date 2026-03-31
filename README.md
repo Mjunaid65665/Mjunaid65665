@@ -4,7 +4,7 @@
 </p>
 
 <h1 align="center">👋 Hi there, I'm Muhammad Junaid Ahmad</h1>
-<h3 align="center">Frontend Developer | Software Engineer</h3>
+<h3 align="center"> Software Engineer</h3>
 
 ---
 
