@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="./banner.png.png"  alt = "banner.png"/>
+  <img src="./banner.png.png" height = "500px" width="100%" alt = "banner.png"/>
 </p>
 
 <h1 align="center">👋 Hi there, I'm Muhammad Junaid Ahmad</h1>
